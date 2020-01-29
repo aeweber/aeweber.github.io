@@ -1,0 +1,14 @@
+h1 {
+  color: grey;
+    font-size: 62px;
+}
+h2 {
+    text-decoration: underline;
+}
+.center {
+    text-align: center;
+}
+body {
+    background-image: url(forest.jpg);
+    background-size: 100%;
+}

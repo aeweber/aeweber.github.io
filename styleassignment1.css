@@ -1,0 +1,91 @@
+h1 {
+    color: white;
+    font-size: 60px;
+}
+h2 {
+    color: grey;
+    font-size: 30px;
+}
+h3 {
+    color: green;
+    font-size: 15px;
+}
+
+/* Jumbotron background and font styles */
+/* Notice that I'm using all of the background CSS rules on the CSS cheat sheet */
+.jumbotron {
+    /* Background */
+    background-attachment: fixed;
+    background-image: url(jumbotron2.jpg);
+    background-image: width=100%;  
+    background-repeat: no-repeat;
+    background-size: cover;
+      /* Fonts */
+    /* The text-shadow helps the white text stand out better on a darker background */
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+/* Footer background  */
+.container_footer {
+    background-color:rgb(248, 249, 250);
+}
+
+.contact_h1 {
+    color: grey;
+}
+    
+.col-sm-6.image1.destinations {
+    background-image: url(Central\ Zone\ 2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 300px 200px;
+}
+
+.col-sm-6.image2.destinations {
+    background-image: url(Los\ Lagos\ 2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 300px 200px;
+}
+
+.col-sm-6.image3.destinations {
+    background-image: url(Aysen\ 2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 300px 200px;
+}
+
+.col-sm-6.image4.destinations {
+    background-image: url(Magallanes\ 2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 300px 200px;
+}
+
+/* .col-sm-3.htimage1 {
+    background-image: url(Origins\ 2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 300px 200px;
+}
+
+.col-sm-3.htimage2 {
+    background-image: url(Tenkara\ 2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 300px 200px;
+}
+
+.col-sm-3.htimage3 {
+    background-image: url(Saltwater\ 2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 300px 200px;
+}
+
+.col-sm-3.htimage4 {
+    background-image: url(Reel\ 2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 300px 200px;
+} */
